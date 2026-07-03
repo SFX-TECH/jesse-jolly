@@ -14,11 +14,14 @@ I'm an AI automation engineer who ships: discovery, build, hardening so it holds
 ## 🚀 Products
 - **[SimpleFix AI™](https://github.com/SFX-TECH/simplefixai-showcase):** AI-powered, fully-offline Windows repair that diagnoses, fixes, explains, and undoes, with a patent-pending safety design. Live at [simplefixai.com](https://simplefixai.com).
 - **[CoachFile](https://github.com/SFX-TECH/coachfile-showcase):** a private client-memory system for coaches. Turns scattered notes into organized client timelines, with AI extraction that cites its sources and never invents. Live at [coachfile.app](https://coachfile.app).
-- **[CullPilot](https://github.com/SFX-TECH/cullpilot):** local AI photo culling for photographers, sorting the keepers from the throwaways after a big shoot. Score, group, and rank an 8,000-photo shoot on your own GPU; clients' photos never leave the machine. *(pre-launch)*
 
 ## 🧠 AI tooling
 - **[SFX Lead Intelligence Command Center](https://github.com/SFX-TECH/sfx-lead-intelligence):** a local-LLM command center, a private AI workspace that searches across all my projects and scores incoming sales leads, running on my own hardware. A semantic hub over 16 projects (30k+ chunks) with a knowledge graph and an MCP server, plus a lead dashboard with 9 AI routes. Quality lifted 61% to 99% by a ground-truth eval harness.
 - **[Local Transcriber](https://github.com/SFX-TECH/local-transcriber):** turns audio and video of any length into text on your own machine, using Whisper. No cloud, no cap, no paywall.
+
+## 🏗️ Self-hostable infrastructure (open source)
+- **[n8n-selfhost-k8s](https://github.com/SFX-TECH/n8n-selfhost-k8s):** self-host n8n on Docker Compose or Kubernetes (queue mode, autoscaling workers, Redis, Postgres), with an AI email-triage example that runs on a local model behind safety guardrails.
+- **[lead-engine-k8s](https://github.com/SFX-TECH/lead-engine-k8s):** a real weekly lead-gen pipeline (scrape, enrich, score, notify) packaged as a container and scheduled with Kubernetes CronJobs, with a zero-spend dry run so anyone can try it.
 
 ## ⚙️ Production AI automations (n8n + Claude), for live clients
 - **A medical practice's operations command center:** bank sync, receipt-photo vision capture, daily briefings, automated monthly financial reports, and an AI assistant agent.
