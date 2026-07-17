@@ -2,7 +2,7 @@
 
 **Solo founder & CTO, [SFX Tech Innovation](https://sfxtechinnovation.com).** I build agentic systems (software that runs multi-step tasks on its own), custom software, and AI agents, end to end.
 
-I'm an AI automation engineer who ships: discovery, build, hardening so it holds up under real use (rate limits, retries, evals), and measurable ROI. Self-taught and production-focused across Claude, agents, RAG, MCP, and local LLMs. By background I'm a systems and IT engineer who got tired of filing tickets about broken workflows and learned to build the fixes instead.
+I'm an AI automation engineer who ships: discovery, build, hardening so it holds up under real use (rate limits, retries, evals), and measurable ROI. Self-taught and production-focused across Claude, agents, RAG, MCP, and local LLMs. By background I'm a systems and IT engineer. Years inside enterprise IT showed me exactly where workflows break, so now I build the automations and AI agents that fix them at the source.
 
 [jessejolly.com](https://jessejolly.com) · [simplefixai.com](https://simplefixai.com) · [coachfile.app](https://coachfile.app) · [sfxtechinnovation.com](https://sfxtechinnovation.com) · [LinkedIn](https://linkedin.com/in/jessegjolly)
 
