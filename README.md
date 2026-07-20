@@ -22,7 +22,7 @@ I'm an AI automation engineer who ships: discovery, build, hardening so it holds
 **[Agentic Harness »](https://github.com/SFX-TECH/agentic-harness):** the operating system I wrap around coding agents to ship and maintain production software, so AI coding tools stay accurate and safe to release. Context as code, decision discipline, orchestrated sub-agents, and verification gates. Open-source templates, principles, and patterns. The products below are private; the way I build them is public.
 
 ## 🚀 Products
-- **[SimpleFix AI™](https://github.com/SFX-TECH/simplefixai-showcase):** AI-powered, fully-offline Windows repair that diagnoses, fixes, explains, and undoes, with a patent-pending safety design. Live at [simplefixai.com](https://simplefixai.com).
+- **[SimpleFixAI™](https://github.com/SFX-TECH/simplefixai-showcase):** AI-powered, fully-offline Windows repair that diagnoses, fixes, explains, and undoes, with a patent-pending safety design. Live at [simplefixai.com](https://simplefixai.com).
 - **[CoachFile](https://github.com/SFX-TECH/coachfile-showcase):** a private client-memory system for coaches. Turns scattered notes into organized client timelines, with AI extraction that cites its sources and never invents. Live at [coachfile.app](https://coachfile.app).
 
 ## 🧠 AI tooling
