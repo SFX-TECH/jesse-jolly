@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SFX-TECH/SFX-TECH/main/assets/header.png" alt="Jesse Jolly, I build the systems that run them" width="100%">
+</p>
+
 # Hi, I'm Jesse Jolly 👋
 
 <p align="center">
