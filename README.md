@@ -1,5 +1,11 @@
 # Hi, I'm Jesse Jolly 👋
 
+<p align="center">
+  <a href="https://jessejolly.com"><img src="https://img.shields.io/badge/Website-jessejolly.com-0e7490?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://linkedin.com/in/jessegjolly"><img src="https://img.shields.io/badge/LinkedIn-Jesse%20Jolly-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://komarev.com/ghpvc/?username=SFX-TECH&label=Profile%20views&color=0e7490&style=flat-square" alt="Profile views">
+</p>
+
 **Solo founder & CTO, [SFX Tech Innovation](https://sfxtechinnovation.com).** I build agentic systems (software that runs multi-step tasks on its own), custom software, and AI agents, end to end.
 
 I'm an AI automation engineer who ships: discovery, build, hardening so it holds up under real use (rate limits, retries, evals), and measurable ROI. Self-taught and production-focused across Claude, agents, RAG, MCP, and local LLMs. After years inside enterprise IT, I learned the real leverage was never in keeping the machine alive, it was in building one that runs itself. So now I build the automations and AI agents that take the repetitive work off business owners' plates and give them their time and value back.
@@ -27,8 +33,6 @@ I'm an AI automation engineer who ships: discovery, build, hardening so it holds
 - **A medical practice's operations command center:** bank sync, receipt-photo vision capture, daily briefings, automated monthly financial reports, and an AI assistant agent.
 - **A bestselling coach's growth stack:** an AI email assistant (classify, branded replies, action summaries), a batch processor, a booking-integrated agent, and a content engine (one transcript becomes posts, clips, quote cards, and carousels).
 - **Multi-vertical lead generation** across 40+ Southwest-Florida verticals (industries): scrape, Claude scoring, outreach, plus a client-discovery pipeline that briefs a prospect on demand.
-
-## 🛠️ Selected builds
 - Modernized **a Florida law firm's website** (real estate, probate, title) from an abandoned WordPress install into a fast, modern Next.js site.
 
 ---
