@@ -26,7 +26,7 @@ I'm an AI automation engineer who ships: discovery, build, hardening so it holds
 - **[CoachFile](https://github.com/SFX-TECH/coachfile-showcase):** a private client-memory system for coaches. Turns scattered notes into organized client timelines, with AI extraction that cites its sources and never invents. Live at [coachfile.app](https://coachfile.app).
 
 ## 🧠 AI tooling
-- **[SFX Lead Intelligence Command Center](https://github.com/SFX-TECH/sfx-lead-intelligence):** a local-LLM command center, a private AI workspace that searches across all my projects and scores incoming sales leads, running on my own hardware. A semantic hub over 16 projects (30k+ chunks) with a knowledge graph and an MCP server, plus a lead dashboard with 9 AI routes. Quality lifted 61% to 99% by a ground-truth eval harness.
+- **[SFX Lead Intelligence Command Center](https://github.com/SFX-TECH/sfx-lead-intelligence):** a local-LLM command center, a private AI workspace that searches across all my projects and scores incoming sales leads, running on my own hardware. A semantic hub over 21 projects (43k+ chunks) with a knowledge graph and an MCP server, plus a lead dashboard with 9 AI routes. Quality lifted 61% to 99% by a ground-truth eval harness.
 - **[Local Transcriber](https://github.com/SFX-TECH/local-transcriber):** turns audio and video of any length into text on your own machine, using Whisper. No cloud, no cap, no paywall.
 
 ## 🏗️ Self-hostable infrastructure (open source)
