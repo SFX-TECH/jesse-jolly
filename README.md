@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/SFX-TECH/jesse-jolly/main/assets/header.png" alt="Jesse Jolly, I build the systems that run them" width="100%">
 </p>
 
-# Hi, I'm Jesse Jolly 👋
+# Hi, I'm Jesse Jolly ðŸ‘‹
 
 <p align="center">
   <a href="https://jessejolly.com"><img src="https://img.shields.io/badge/Website-jessejolly.com-0e7490?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
@@ -10,43 +10,55 @@
   <img src="https://komarev.com/ghpvc/?username=SFX-TECH&label=Profile%20views&color=0e7490&style=flat-square" alt="Profile views">
 </p>
 
-**Solo founder & CTO, [SFX Tech Innovation](https://sfxtechinnovation.com).** I build agentic systems (software that runs multi-step tasks on its own), custom software, and AI agents, end to end.
+**AI Solutions & Enablement Engineer | Founder | Agentic Systems**
 
-I'm an AI automation engineer who ships: discovery, build, hardening so it holds up under real use (rate limits, retries, evals), and measurable ROI. Self-taught and production-focused across Claude, agents, RAG, MCP, and local LLMs. After years inside enterprise IT, I learned the real leverage was never in keeping the machine alive, it was in building one that runs itself. So now I build the automations and AI agents that take the repetitive work off business owners' plates and give them their time and value back.
+I turn operational problems into production agentic systems, automations, and software, then help teams adopt and sustain them. I own the work end to end across discovery, requirements, architecture, integration, evaluation, deployment, documentation, training, and operation.
 
-[jessejolly.com](https://jessejolly.com) · [simplefixai.com](https://simplefixai.com) · [coachfile.app](https://coachfile.app) · [sfxtechinnovation.com](https://sfxtechinnovation.com) · [LinkedIn](https://linkedin.com/in/jessegjolly)
+I am the founder of [SFX Tech Innovation](https://sfxtechinnovation.com) and an enterprise technology engineer supporting a 24/7 hospitality environment. My work combines hands-on IT operations, identity, cloud infrastructure, workflow automation, local AI, and production application delivery. I build for measurable value, explicit safety boundaries, and long-term supportability.
+
+[Portfolio](https://jessejolly.com) | [SimpleFixAI](https://simplefixai.com) | [CoachFile](https://coachfile.app) | [SFX Tech Innovation](https://sfxtechinnovation.com) | [LinkedIn](https://linkedin.com/in/jessegjolly)
 
 ---
 
-## 🧰 How I build (open source)
-**[Agentic Harness »](https://github.com/SFX-TECH/agentic-harness):** the operating system I wrap around coding agents to ship and maintain production software, so AI coding tools stay accurate and safe to release. Context as code, decision discipline, orchestrated sub-agents, and verification gates. Open-source templates, principles, and patterns. The products below are private; the way I build them is public.
+## How I build
 
-## 🚀 Products
-- **[SimpleFixAI™](https://github.com/SFX-TECH/simplefixai-showcase):** AI-powered, fully-offline Windows repair that diagnoses, fixes, explains, and undoes, with a patent-pending safety design. Live at [simplefixai.com](https://simplefixai.com).
-- **[CoachFile](https://github.com/SFX-TECH/coachfile-showcase):** a private client-memory system for coaches. Turns scattered notes into organized client timelines, with AI extraction that cites its sources and never invents. Live at [coachfile.app](https://coachfile.app).
+**[Agentic Harness](https://github.com/SFX-TECH/agentic-harness)** is the open-source operating method I use around coding agents to ship and maintain production software. It keeps context durable, decisions explicit, delegation disciplined, and every change grounded in builds, tests, evaluations, browser checks, and review evidence.
 
-## 🧠 AI tooling
-- **[SFX Lead Intelligence Command Center](https://github.com/SFX-TECH/sfx-lead-intelligence):** a local-LLM command center, a private AI workspace that searches across all my projects and scores incoming sales leads, running on my own hardware. A semantic hub over 21 projects (43k+ chunks) with a knowledge graph and an MCP server, plus a lead dashboard with 9 AI routes. Quality lifted 61% to 99% by a ground-truth eval harness.
-- **[Local Transcriber](https://github.com/SFX-TECH/local-transcriber):** turns audio and video of any length into text on your own machine, using Whisper. No cloud, no cap, no paywall.
+## Products
 
-## 🏗️ Self-hostable infrastructure (open source)
-- **[n8n-selfhost-k8s](https://github.com/SFX-TECH/n8n-selfhost-k8s):** self-host n8n on Docker Compose or Kubernetes (queue mode, autoscaling workers, Redis, Postgres), with an AI email-triage example that runs on a local model behind safety guardrails.
-- **[lead-engine-k8s](https://github.com/SFX-TECH/lead-engine-k8s):** a real weekly lead-gen pipeline (scrape, enrich, score, notify) packaged as a container and scheduled with Kubernetes CronJobs, with a zero-spend dry run so anyone can try it.
+- **[SimpleFixAI](https://github.com/SFX-TECH/simplefixai-showcase)** - Fully offline Windows repair with local AI, reviewed and reversible fix modules, before-and-after verification, signed releases, and a provisional patent. Live at [simplefixai.com](https://simplefixai.com).
+- **[CoachFile](https://github.com/SFX-TECH/coachfile-showcase)** - A production multi-tenant client memory platform with source-cited AI extraction, an organize-do-not-invent rule, voice-to-draft capture, tenant isolation, encryption, and operational automation. Live at [coachfile.app](https://coachfile.app).
 
-## ⚙️ Production AI automations (n8n + Claude), for live clients
-- **A medical practice's operations command center:** bank sync, receipt-photo vision capture, daily briefings, automated monthly financial reports, and an AI assistant agent.
-- **A bestselling coach's growth stack:** an AI email assistant (classify, branded replies, action summaries), a batch processor, a booking-integrated agent, and a content engine (one transcript becomes posts, clips, quote cards, and carousels).
-- **Multi-vertical lead generation** across 40+ Southwest-Florida verticals (industries): scrape, Claude scoring, outreach, plus a client-discovery pipeline that briefs a prospect on demand.
-- Modernized **a Florida law firm's website** (real estate, probate, title) from an abandoned WordPress install into a fast, modern Next.js site.
+The product source remains private. The public showcase repositories document architecture, safety, delivery, and user-facing behavior.
+
+## AI systems and tooling
+
+- **[SFX Lead Intelligence Command Center](https://github.com/SFX-TECH/sfx-lead-intelligence)** - A local-AI workspace for grounded project search and lead intelligence. Its Context Hub indexes 66,000+ grounded chunks across 21 projects and serves search, Q&A, a knowledge graph, and MCP access. A custom evaluation harness improved measured chat quality from 61% to 99%.
+- **[Local Transcriber](https://github.com/SFX-TECH/local-transcriber)** - Private, offline Whisper transcription for audio and video of any length. Ships with FastAPI, Docker CPU and GPU images, Helm, and KEDA autoscaling.
+
+## Self-hostable infrastructure
+
+- **[n8n Self-Host on Kubernetes](https://github.com/SFX-TECH/n8n-selfhost-k8s)** - Docker Compose and Kubernetes queue-mode deployment with Redis, Postgres, autoscaling workers, CI validation, and a local-AI workflow behind deterministic safety guardrails.
+- **[Lead Engine on Kubernetes](https://github.com/SFX-TECH/lead-engine-k8s)** - A scheduled scrape, enrich, score, write, and notify pipeline packaged for Docker and Kubernetes, including a safe zero-spend dry-run path.
+
+## Selected client and web delivery
+
+- Built and operate AI automation systems for a medical practice, including bank synchronization, receipt processing, daily briefings, monthly reporting, and an assistant agent.
+- Delivered an AI email assistant, booking-integrated agent, batch processor, and multi-channel content engine for a coach with a 3.5M+ audience.
+- Run lead-generation and client-discovery pipelines across 41 verticals using Apify, Firecrawl, Claude, webhooks, Google Workspace, and reporting dashboards.
+- Designed and deployed the 22-page [NATiVE Solar digital sales prototype](https://nativesolar.vercel.app), including an instant estimate and lead-qualification flow.
+- Modernized a Florida law firm's website from an abandoned WordPress installation into a fast, maintainable Next.js experience.
 
 ---
 
 ## Stack
-**AI:** Claude (Anthropic SDK), Model Context Protocol (MCP), RAG, multi-agent orchestration, local LLMs (Ollama), prompt + eval engineering
-**Automation:** n8n, REST APIs, webhooks, OAuth 2.0, Apify, Firecrawl
-**Build:** TypeScript · Python · Rust · PowerShell · SQL · React · Next.js · Tauri · Electron · Supabase · Cloudflare Workers
-**Cloud / Infra:** Microsoft Azure / Entra ID · Microsoft 365 · GitHub Actions · ITIL 4
+
+**AI and agents:** Claude, local LLMs, RAG, Model Context Protocol, multi-agent orchestration, prompt and evaluation engineering  
+**Automation and integration:** n8n, REST APIs, webhooks, OAuth 2.0, Google Workspace, Apify, Firecrawl  
+**Software:** Python, TypeScript, Rust, PowerShell, SQL, React, Next.js, FastAPI, Tauri  
+**Cloud and infrastructure:** Azure, Entra ID, Microsoft 365, Cloudflare, Supabase, Docker, Kubernetes, GitHub Actions
 
 ---
 
-*SFX Tech Innovation LLC. Building with AI, in AI, and the systems around AI. [jessejolly.com](https://jessejolly.com).*
+Founder, [SFX Tech Innovation](https://sfxtechinnovation.com) | [jessejolly.com](https://jessejolly.com)
+
