@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/SFX-TECH/jesse-jolly/main/assets/header.png" alt="Jesse Jolly, I build the systems that run them" width="100%">
 </p>
 
-# Hi, I'm Jesse Jolly ðŸ‘‹
+# Hi, I'm Jesse Jolly
 
 <p align="center">
   <a href="https://jessejolly.com"><img src="https://img.shields.io/badge/Website-jessejolly.com-0e7490?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
