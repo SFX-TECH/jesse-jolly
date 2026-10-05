@@ -33,7 +33,7 @@ The product source remains private. The public showcase repositories document ar
 
 ## AI systems and tooling
 
-- **[SFX Lead Intelligence Command Center](https://github.com/SFX-TECH/sfx-lead-intelligence)** - A local-AI workspace for grounded project search and lead intelligence. Its Context Hub indexes 66,000+ grounded chunks across 21 projects and serves search, Q&A, a knowledge graph, and MCP access. A custom evaluation harness improved measured chat quality from 61% to 99%.
+- **[SFX Lead Intelligence Command Center](https://github.com/SFX-TECH/sfx-lead-intelligence)** - A local-AI workspace for grounded project search and lead intelligence. Its Context Hub indexes 46,000+ grounded chunks across 23 projects and serves search, Q&A, a knowledge graph, and MCP access. A custom evaluation harness improved measured chat quality from 61.5% to 99.0%.
 - **[Local Transcriber](https://github.com/SFX-TECH/local-transcriber)** - Private, offline Whisper transcription for audio and video of any length. Ships with FastAPI, Docker CPU and GPU images, Helm, and KEDA autoscaling.
 
 ## Self-hostable infrastructure
@@ -44,7 +44,7 @@ The product source remains private. The public showcase repositories document ar
 ## Selected client and web delivery
 
 - Built and operate AI automation systems for a medical practice, including bank synchronization, receipt processing, daily briefings, monthly reporting, and an assistant agent.
-- Delivered an AI email assistant, booking-integrated agent, batch processor, and multi-channel content engine for a coach with a 3.5M+ audience.
+- Delivered an AI email assistant, booking-integrated agent, batch processor, and multi-channel content engine for a coach with a large public audience.
 - Run lead-generation and client-discovery pipelines across 41 verticals using Apify, Firecrawl, Claude, webhooks, Google Workspace, and reporting dashboards.
 - Designed and deployed the 22-page [NATiVE Solar digital sales prototype](https://nativesolar.vercel.app), including an instant estimate and lead-qualification flow.
 - Modernized a Florida law firm's website from an abandoned WordPress installation into a fast, maintainable Next.js experience.
