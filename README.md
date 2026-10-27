@@ -26,14 +26,14 @@ I am the founder of [SFX Tech Innovation](https://sfxtechinnovation.com) and an 
 
 ## Products
 
-- **[SimpleFixAI](https://github.com/SFX-TECH/simplefixai-showcase)** - Fully offline Windows repair with local AI, reviewed and reversible fix modules, before-and-after verification, signed releases, and a provisional patent. Live at [simplefixai.com](https://simplefixai.com).
+- **[SimpleFixAI](https://github.com/SFX-TECH/simplefixai-showcase)** - A Windows PC repair assistant: you describe the problem in plain English, it says what it will do, asks before every repair and runs approved native Windows repairs in an order set in code. A model can never write or run commands. Every repair gets a safety snapshot first, with tiered undo. Diagnosis, undo and most repairs work offline; some repairs need the internet. Signature-verified auto-updates, published checksums, more than 21,000 passing automated tests, and a provisional patent. Live at [simplefixai.com](https://simplefixai.com).
 - **[CoachFile](https://github.com/SFX-TECH/coachfile-showcase)** - A production multi-tenant client memory platform with source-cited AI extraction, an organize-do-not-invent rule, voice-to-draft capture, tenant isolation, encryption, and operational automation. Live at [coachfile.app](https://coachfile.app).
 
 The product source remains private. The public showcase repositories document architecture, safety, delivery, and user-facing behavior.
 
 ## AI systems and tooling
 
-- **[SFX Lead Intelligence Command Center](https://github.com/SFX-TECH/sfx-lead-intelligence)** - A local-AI workspace for grounded project search and lead intelligence. Its Context Hub indexes 46,000+ grounded chunks across 23 projects and serves search, Q&A, a knowledge graph, and MCP access. A custom evaluation harness improved measured chat quality from 61.5% to 99.0%.
+- **[SFX Lead Intelligence Command Center](https://github.com/SFX-TECH/sfx-lead-intelligence)** - A local-AI workspace for grounded project search and lead intelligence. Its Context Hub indexes 48,000+ grounded chunks across 23 projects and serves search, Q&A, a knowledge graph, and MCP access. A custom evaluation harness improved measured chat quality from 61.5% to 99.0%.
 - **[Local Transcriber](https://github.com/SFX-TECH/local-transcriber)** - Private, offline Whisper transcription for audio and video of any length. Ships with FastAPI, Docker CPU and GPU images, Helm, and KEDA autoscaling.
 
 ## Self-hostable infrastructure
